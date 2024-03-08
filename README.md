@@ -8,7 +8,9 @@ Hello! I'm Sina and i'm interested in Data Science. Welcome to my GitHub profile
 ## Skills
 * Programming Languages: Python
 
-
+# contact Me
+Feel free to connect with me on 
+<https://www.linkedin.com/in/sina-keyhaninejad/> 
 
 
 
