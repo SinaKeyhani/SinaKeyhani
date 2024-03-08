@@ -6,7 +6,7 @@
 Hello! I'm Sina and i'm interested in Data Science. Welcome to my GitHub profile!
 
 ## Skills
-. Programming Languages: Python
+* Programming Languages: Python
 
 
 
