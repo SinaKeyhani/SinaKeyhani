@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Welcome to My GitHub Profile
 I'm a passionate data enthusiast with a knack for transforming complex data into actionable insights. With expertise in various areas, I'm all about leveraging technology to solve real-world problems.
 
